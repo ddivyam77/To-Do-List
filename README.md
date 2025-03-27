@@ -6,3 +6,5 @@
 
 #lisense-info
 Contact us
+
+# to reslove the merge issues use pullrequests in github

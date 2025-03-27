@@ -4,3 +4,5 @@
 
 #potential tasks we can use AI to make it better
 
+#lisense-info
+Contact us
